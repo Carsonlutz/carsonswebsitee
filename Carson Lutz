@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+     <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Website</title>
+<style>
+</head>
+<body>
+    body {
+      font-family: Georgia;
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(to right, #fddde6, #f4f4f4);
+      color: #333;
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
+      align-items: center;
+    }
+    h1 {
+      text-align: center;
+      margin-top: 10px;
+      font-size: 2.5em;
+      text-align: center;
+      margin-bottom: 1px;
+
+    }
+
+    h2 {
+      text-align: center; 
+      margin-top: 1px;
+      font-size: 1em;
+      margin-bottom: 1px;
+    }
+
+    h3 {
+      text-align: center;
+      margin-top: 1px;
+      Font-size: 1em;
+    }
+
+    h4 {
+      text-align: center;
+      margin-top: 1px;
+      Font-size: 1em;
+      margin-bottom: 1px;
+    }
+    h5 {
+      text-align: center;
+      margin-top: 1px;
+      Font-size: 1em;
+      margin-bottom: 1px;
+    }
+
+    h6 {
+      text-align: center;
+      margin-top: 1px;
+      Font-size: 1em;
+      margin-bottom: 1px;
+    }
+
+    p {
+      text-align: center;
+      font-size: 1 em;
+      margin-bottom: 50px;
+    }
+    </style> 
+    <div>
+    <h1>Carson Lutz</h1>
+    <h2>Fourth Year Pharmacy Student</h2>
+    <h3>University of Kansas School of Pharmacy</h3>
+    <p> <img src="https://www.pharmacyschoolfinder.org/wp-content/uploads/2020/04/univ-kansas-logo.png"
+        width="300"style="display: block; margin: 0 auto;">
+        <br>
+        <a href=https://www.linkedin.com/in/carson-lutz-b7688125a/><img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" width="40"></a>
+    </p>
+    </div>
+    <div>
+        <p> <img src="https://attachments.office.net/owa/carson_orr%40ku.edu/service.svc/s/GetAttachmentThumbnail?id=AQMkADYyZmUwNTljLWQzNDMtNDEwYS04YjNkLWZkMGNhYzUzZTU0OABGAAADhX0CIn7FtEi1LWKjxObV8gcApUTRB%2BH9sE%2BLydN6k%2BP71wAAAgEJAAAApUTRB%2BH9sE%2BLydN6k%2BP71wADoHXNvQAAAAESABAA7ds%2FVeA4tEGcHp6gEPlvQw%3D%3D&thumbnailType=2&token=eyJhbGciOiJSUzI1NiIsImtpZCI6IkEzMDVCMkU1Q0ZERjFGQTFBODgyNTU2MzM3NDhCQkNBRTAxNUU5OTIiLCJ0eXAiOiJKV1QiLCJ4NXQiOiJvd1d5NWNfZkg2R29nbFZqTjBpN3l1QVY2WkkifQ.eyJvcmlnaW4iOiJodHRwczovL291dGxvb2sub2ZmaWNlLmNvbSIsInVjIjoiY2VlMGI4ZTAxY2ExNDg4YzkxY2ZlYmI5NjBjMmFjMDciLCJzaWduaW5fc3RhdGUiOiJrbXNpIiwidmVyIjoiRXhjaGFuZ2UuQ2FsbGJhY2suVjEiLCJhcHBjdHhzZW5kZXIiOiJPd2FEb3dubG9hZEAzYzE3NjUzNi1hZmU2LTQzZjUtYjk2Ni0zNmZlYWJiZTNjMWEiLCJpc3NyaW5nIjoiV1ciLCJhcHBjdHgiOiJ7XCJtc2V4Y2hwcm90XCI6XCJvd2FcIixcInB1aWRcIjpcIjExNTM4MDExMTg3NDIzNDE2MjNcIixcInNjb3BlXCI6XCJPd2FEb3dubG9hZFwiLFwib2lkXCI6XCJhOWMxYTQ3Ni02OWU3LTQyYjQtYTBjNy1jZDg4NmRlYTE1ZGRcIixcInByaW1hcnlzaWRcIjpcIlMtMS01LTIxLTQyNzk3NzIzNjYtMzQ1NDYwNzk0Ni0zNjI1ODg2MDk1LTE4NDEyMzZcIn0iLCJuYmYiOjE3Mzc2NDU5NzksImV4cCI6MTczNzY0NjI3OSwiaXNzIjoiMDAwMDAwMDItMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwQDNjMTc2NTM2LWFmZTYtNDNmNS1iOTY2LTM2ZmVhYmJlM2MxYSIsImF1ZCI6IjAwMDAwMDAyLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9hdHRhY2htZW50cy5vZmZpY2UubmV0QDNjMTc2NTM2LWFmZTYtNDNmNS1iOTY2LTM2ZmVhYmJlM2MxYSIsImhhcHAiOiJvd2EifQ.aFFNQ4feLfHaLA4xUXUCSTcct7I-IcoF-S0mgiBVcAILAFxMyeSWLosUXw0wZ5RrMu3PVk-5i_Zb_sOtQp_X2BrjUOINjbpu4zyQgk7-Hc_zZJShLr1gFIbp01vWqjj0wNllNS6ITobhAITdZ8-qlUUJ6QekXY2rJrRCn3E8UIBZzLFiPZ9yqf_bX-P4ga4DMXxPJ2PTe24gJ6jtJbDqyp9g1ajWtXGCdQmgwPRwCvnTYDABZ3K4oKA89_AXTdi9yQuR8AObEVazxoOZ3A_WfEW-Ll2ewBLC5YnhfeigDQ8aI4Clv2ANc60snItb37YPDUHVd0Vdz0eK4nv3MxEXFw&X-OWA-CANARY=wTQ4TTdOcDcAAAAAAAAAAOByZVfCO90YwOVBd3KQTnqSBcCcZ-BZyft-5t01d31LDWDj8ZnxErI.&owa=outlook.office.com&scriptVer=20250110003.23&clientId=B04D718C4DB54E4EA6F27D0991ED363A&animation=true"
+                width="320" height="300" style="display: block; margin: 0 auto;"
+    <h4> Contact: 
+    <br> 
+    Carson_orr@ku.edu 
+    <br> 316-218-3433 </h4>        
+    </p>
+    </div>
+    
+</body>
+</html>
